@@ -1,3 +1,0 @@
-# Core prototype uses only Python standard library.
-# Optional ADK experiment (install if using Google ADK):
-google-adk==2.3.0
