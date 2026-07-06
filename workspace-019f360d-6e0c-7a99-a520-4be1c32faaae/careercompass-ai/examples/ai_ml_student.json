@@ -1,0 +1,28 @@
+{
+  "name": "Demo Student",
+  "education": "B.Tech Computer Science, 3rd year",
+  "current_skills": [
+    "Python",
+    "basic machine learning",
+    "pandas",
+    "numpy",
+    "statistics",
+    "Git",
+    "scikit-learn",
+    "data preprocessing",
+    "model evaluation"
+  ],
+  "interests": [
+    "AI",
+    "data science",
+    "software engineering"
+  ],
+  "projects": [
+    "Student performance prediction model with data preprocessing, model evaluation, and scikit-learn"
+  ],
+  "career_goal": "Get an AI/ML internship in 3 months",
+  "weekly_time_commitment": 10,
+  "weeks_until_goal": 12,
+  "preferred_location": "India or remote",
+  "resume_text": "Built a student performance prediction model using Python. Contact demo@example.com or 9876543210."
+}

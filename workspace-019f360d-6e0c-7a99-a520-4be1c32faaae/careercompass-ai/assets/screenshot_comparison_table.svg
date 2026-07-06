@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <rect width="1000" height="420" rx="24" fill="#f8fafc"/>
+  <text x="50" y="58" font-family="Arial" font-size="30" font-weight="800" fill="#0f172a">Career Path Comparison</text>
+  <text x="50" y="90" font-family="Arial" font-size="16" fill="#64748b">Deterministic scoring with confidence labels</text>
+  <rect x="50" y="120" width="900" height="54" rx="12" fill="#2563eb"/>
+  <text x="90" y="154" font-family="Arial" font-size="18" font-weight="700" fill="white">Career</text>
+  <text x="500" y="154" font-family="Arial" font-size="18" font-weight="700" fill="white">Suitability Index</text>
+  <text x="665" y="154" font-family="Arial" font-size="18" font-weight="700" fill="white">Confidence</text>
+  <text x="825" y="154" font-family="Arial" font-size="18" font-weight="700" fill="white">Difficulty</text>
+  <g font-family="Arial" font-size="18" fill="#0f172a">
+    <rect x="50" y="184" width="900" height="58" rx="10" fill="#ffffff" stroke="#dbeafe"/>
+    <text x="90" y="220" font-weight="700">Machine Learning Intern</text><text x="515" y="220" text-anchor="middle" font-weight="800">78</text><text x="705" y="220" text-anchor="middle">Medium</text><text x="855" y="220" text-anchor="middle">High</text>
+    <rect x="50" y="252" width="900" height="58" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="90" y="288" font-weight="700">Data Analyst Intern</text><text x="515" y="288" text-anchor="middle" font-weight="800">47</text><text x="705" y="288" text-anchor="middle">Developing</text><text x="855" y="288" text-anchor="middle">Medium</text>
+    <rect x="50" y="320" width="900" height="58" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="90" y="356" font-weight="700">Python Developer Intern</text><text x="515" y="356" text-anchor="middle" font-weight="800">39</text><text x="705" y="356" text-anchor="middle">Developing</text><text x="855" y="356" text-anchor="middle">Medium</text>
+  </g>
+</svg>
