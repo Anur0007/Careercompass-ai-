@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+  <rect width="1000" height="500" rx="24" fill="#f8fafc"/>
+  <text x="50" y="58" font-family="Arial" font-size="30" font-weight="800" fill="#0f172a">Why this recommendation?</text>
+  <text x="50" y="92" font-family="Arial" font-size="17" fill="#475569">Machine Learning Intern — explainable weighted contribution</text>
+  <g font-family="Arial" font-size="20">
+    <text x="80" y="150" fill="#0f172a" font-weight="700">Skill Match</text><rect x="320" y="132" width="220" height="24" rx="12" fill="#dbeafe"/><rect x="320" y="132" width="220" height="24" rx="12" fill="#2563eb"/><text x="600" y="151" fill="#0f172a">35.0 / 35</text>
+    <text x="80" y="205" fill="#0f172a" font-weight="700">Interest Match</text><rect x="320" y="187" width="220" height="24" rx="12" fill="#dbeafe"/><rect x="320" y="187" width="148" height="24" rx="12" fill="#2563eb"/><text x="600" y="206" fill="#0f172a">16.8 / 25</text>
+    <text x="80" y="260" fill="#0f172a" font-weight="700">Feasibility</text><rect x="320" y="242" width="220" height="24" rx="12" fill="#dbeafe"/><rect x="320" y="242" width="150" height="24" rx="12" fill="#2563eb"/><text x="600" y="261" fill="#0f172a">13.6 / 20</text>
+    <text x="80" y="315" fill="#0f172a" font-weight="700">Projects</text><rect x="320" y="297" width="220" height="24" rx="12" fill="#dbeafe"/><rect x="320" y="297" width="64" height="24" rx="12" fill="#2563eb"/><text x="600" y="316" fill="#0f172a">2.9 / 10</text>
+    <text x="80" y="370" fill="#0f172a" font-weight="700">Timeline</text><rect x="320" y="352" width="220" height="24" rx="12" fill="#dbeafe"/><rect x="320" y="352" width="220" height="24" rx="12" fill="#2563eb"/><text x="600" y="371" fill="#0f172a">10.0 / 10</text>
+    <rect x="70" y="410" width="860" height="54" rx="14" fill="#ecfdf5" stroke="#10b981"/>
+    <text x="90" y="444" fill="#065f46" font-weight="800">Suitability Index</text><text x="860" y="444" text-anchor="end" fill="#065f46" font-weight="800">78 / 100</text>
+  </g>
+</svg>

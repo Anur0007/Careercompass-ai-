@@ -1,0 +1,61 @@
+{
+  "weights": {
+    "skill_match": 0.35,
+    "interest_match": 0.25,
+    "internship_feasibility": 0.20,
+    "project_alignment": 0.10,
+    "time_to_readiness": 0.10
+  },
+  "career_paths": [
+    {
+      "id": "data_analyst_intern",
+      "title": "Data Analyst Intern",
+      "required_skills": ["python", "sql", "excel", "statistics", "pandas", "data visualization", "dashboard", "communication"],
+      "interest_keywords": ["data", "analytics", "business", "visualization", "statistics", "insights"],
+      "project_keywords": ["analysis", "dashboard", "dataset", "prediction", "visualization", "excel", "pandas"],
+      "entry_level_feasibility": 90,
+      "difficulty": "Medium",
+      "recommended_projects": ["Exploratory data analysis project", "Dashboard with cleaned dataset", "SQL case study"]
+    },
+    {
+      "id": "ml_intern",
+      "title": "Machine Learning Intern",
+      "required_skills": ["python", "machine learning", "statistics", "pandas", "numpy", "model evaluation", "scikit-learn", "git", "data preprocessing"],
+      "interest_keywords": ["ai", "machine learning", "ml", "deep learning", "data science", "models"],
+      "project_keywords": ["prediction", "classification", "regression", "model", "machine learning", "ml", "dataset"],
+      "entry_level_feasibility": 68,
+      "difficulty": "High",
+      "recommended_projects": ["End-to-end ML model with evaluation", "Model comparison notebook", "Deployed ML demo or documented inference script"]
+    },
+    {
+      "id": "python_developer_intern",
+      "title": "Python Developer Intern",
+      "required_skills": ["python", "git", "apis", "oop", "testing", "databases", "debugging", "linux basics"],
+      "interest_keywords": ["software", "backend", "python", "automation", "apis", "development"],
+      "project_keywords": ["api", "automation", "backend", "flask", "fastapi", "script", "web app"],
+      "entry_level_feasibility": 80,
+      "difficulty": "Medium",
+      "recommended_projects": ["Python automation tool", "REST API mini project", "CLI application with tests"]
+    },
+    {
+      "id": "backend_developer_intern",
+      "title": "Backend Developer Intern",
+      "required_skills": ["java", "python", "javascript", "databases", "sql", "rest apis", "git", "dsa", "authentication", "deployment"],
+      "interest_keywords": ["backend", "apis", "software", "server", "databases", "systems"],
+      "project_keywords": ["api", "backend", "database", "server", "spring", "node", "django", "flask"],
+      "entry_level_feasibility": 78,
+      "difficulty": "Medium",
+      "recommended_projects": ["CRUD API with database", "Authentication-enabled backend", "Documented deployed backend project"]
+    },
+    {
+      "id": "business_analyst_intern",
+      "title": "Business Analyst Intern",
+      "required_skills": ["excel", "communication", "statistics", "sql", "requirements analysis", "presentation", "business analytics"],
+      "interest_keywords": ["business", "analytics", "strategy", "operations", "communication", "insights"],
+      "project_keywords": ["case study", "dashboard", "business", "analysis", "excel", "presentation"],
+      "entry_level_feasibility": 86,
+      "difficulty": "Medium",
+      "recommended_projects": ["Business case analysis", "Excel dashboard", "SQL business insights project"]
+    }
+  ]
+}
